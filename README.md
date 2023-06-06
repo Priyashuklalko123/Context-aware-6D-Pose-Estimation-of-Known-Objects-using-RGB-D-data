@@ -58,7 +58,7 @@ Quantitative evaluation result with ADD metric for non-symmetry objects and ADD-
 The qualitative result on the Linemod dataset.
 
 <p align="center">
-	<img src ="assets/linemod.png" width="500" />
+	<img src ="images/linemod.png" width="500" />
 </p>
 
 
