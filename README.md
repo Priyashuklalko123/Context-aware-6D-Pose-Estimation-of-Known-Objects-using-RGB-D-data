@@ -52,13 +52,13 @@ This script will test the models on the testing set of the LineMOD dataset with 
 Quantitative evaluation result with ADD metric for non-symmetry objects and ADD-S for symmetry objects(eggbox, glue) compared to other RGB-D methods. High performance RGB methods are also listed for reference.
 
 <p align="center">
-	<img src ="images/result_linemod.png" width="500" />
+	<img src ="images/result_linemod.png" width="700" />
 </p>
 
 The qualitative result on the Linemod dataset.
 
 <p align="center">
-	<img src ="images/linemod.png" width="500" />
+	<img src ="images/linemod.png" width="700" />
 </p>
 
 
