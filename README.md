@@ -35,9 +35,8 @@ Download preprocessed LineMOD dataset:
 ```
 
 
-## Evaluation
+## Evaluation on LineMOD Dataset
 
-### Evaluation on LineMOD Dataset
 Just run:
 ```
 ./experiments/scripts/eval_linemod.sh
