@@ -26,10 +26,9 @@ Download preprocessed LineMOD dataset:
 ```	
 ./download.sh
 ```
-## Training 
+## Training on LineMOD Dataset
 
-* LineMOD Dataset:
-	After you have downloaded and unzipped the Linemod_preprocessed.zip, please run:
+After you have downloaded and unzipped the Linemod_preprocessed.zip, please run:
 ```	
 ./experiments/scripts/train_linemod.sh
 ```
