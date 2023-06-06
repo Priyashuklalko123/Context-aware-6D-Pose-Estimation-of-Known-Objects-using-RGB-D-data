@@ -43,9 +43,9 @@ Just run:
 This script will test the models on the testing set of the LineMOD dataset with the masks outputted by the trained vanilla SegNet model. The result will be printed at the end of the execution and saved as a log in `experiments/eval_result/linemod/`.
 
 
-## Results
+## Results on LineMOD Dataset
 
-* LineMOD Dataset:
+
 
 Quantitative evaluation result with ADD metric for non-symmetry objects and ADD-S for symmetry objects(eggbox, glue) compared to other RGB-D methods. High performance RGB methods are also listed for reference.
 
