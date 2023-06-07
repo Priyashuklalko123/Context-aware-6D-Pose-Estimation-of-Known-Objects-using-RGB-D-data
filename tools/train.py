@@ -31,8 +31,8 @@ print("cuda = ",torch.cuda.is_available())
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--dataset', type=str, default = 'linemod', help='ycb or linemod')
-parser.add_argument('--dataset_root', type=str, default = '', help='dataset root dir (''YCB_Video_Dataset'' or ''Linemod_preprocessed'')')
+parser.add_argument('--dataset', type=str, default = 'linemod', help=' linemod')
+parser.add_argument('--dataset_root', type=str, default = '', help='dataset root dir (''Linemod_preprocessed'')')
 parser.add_argument('--batch_size', type=int, default = 10, help='batch size')
 parser.add_argument('--workers', type=int, default = 10, help='number of data loading workers')
 parser.add_argument('--lr', default=0.0001, help='learning rate')
