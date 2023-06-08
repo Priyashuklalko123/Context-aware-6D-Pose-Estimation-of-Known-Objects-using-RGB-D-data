@@ -61,7 +61,7 @@ The qualitative result on the Linemod dataset.
 
 
 # Citation
-Please cite [Context-aware 6D pose estimation for known objects from RGB-D data](https://arxiv.org/abs/2212.05560) if you use this repository in your publications
+Please cite [Context-aware 6D pose estimation of known objects Using RGB-D data](https://arxiv.org/abs/2212.05560) if you use this repository in your publications
 ```
 @misc{kumar2022contextaware,
       title={Context-aware 6D Pose Estimation of Known Objects using RGB-D data}, 
