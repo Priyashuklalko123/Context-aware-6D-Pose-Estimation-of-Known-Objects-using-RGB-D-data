@@ -61,8 +61,16 @@ The qualitative result on the Linemod dataset.
 
 
 # Citation
-
+Please cite [Context-aware 6D pose estimation](https://arxiv.org/abs/2212.05560) if you use this repository in your publications
 ```
+@misc{kumar2022contextaware,
+      title={Context-aware 6D Pose Estimation of Known Objects using RGB-D data}, 
+      author={Ankit Kumar and Priya Shukla and Vandana Kushwaha and G. C. Nandi},
+      year={2022},
+      eprint={2212.05560},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 ```
 
