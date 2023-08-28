@@ -1,4 +1,4 @@
-# Code for our paper <a href="https://arxiv.org/abs/2212.05560"> "Context-aware 6D Pose Estimation of Known Objects using RGB-D data" </a>
+# Code for paper <a href="https://arxiv.org/abs/2212.05560"> "Context-aware 6D Pose Estimation of Known Objects using RGB-D data" </a>
 ### 
 
 ### 
